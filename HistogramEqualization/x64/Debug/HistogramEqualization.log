@@ -4,9 +4,9 @@ d:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件�
 d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(69): warning C4018: “>”: 有符号/无符号不匹配
-e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(113): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(123): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(70): warning C4018: “>”: 有符号/无符号不匹配
+e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2017\histogramequalization\histogramequalization\histograme.cpp(124): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
   HistogramEqualization.vcxproj -> E:\visual studio 2017\HistogramEqualization\x64\Debug\HistogramEqualization.exe
   HistogramEqualization.vcxproj -> E:\visual studio 2017\HistogramEqualization\x64\Debug\HistogramEqualization.pdb (Partial PDB)

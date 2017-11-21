@@ -48,6 +48,7 @@ int main()
 		imshow("均衡后G通道", channel[1]);
 		imshow("均衡后B通道", channel[2]);
 
+
 		imshow("均衡后R通道直方图", hisDis(channel[0], high, width, fre[0]));
 		imshow("均衡后G通道直方图", hisDis(channel[1], high, width, fre[1]));
 		imshow("均衡后B通道直方图", hisDis(channel[2], high, width, fre[2]));
